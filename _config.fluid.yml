@@ -11,6 +11,17 @@ author: wujing
 language: zh-CN
 timezone: ''
 
+index:
+  slogan:
+    enable: true
+    text: Talk is cheap. Show me the code. Stay hungry. Stay foolish.
+    api:
+      enable: false
+      url: "https://v1.hitokoto.cn/"
+      method: "GET"
+      headers: {}
+      keys: ["hitokoto"]
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://realwujing.github.io
