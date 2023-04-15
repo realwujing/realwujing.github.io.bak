@@ -35,6 +35,12 @@ code:
       style: "default"
       preprocess: true
 
+post:
+  math:
+    enable: true
+    specific: true
+    engine: mathjax
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://realwujing.github.io
