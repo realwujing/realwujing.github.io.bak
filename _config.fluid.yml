@@ -3,13 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Linux
+title: WuJing's Blog
 subtitle: ''
 description: ''
 keywords:
-author: wujing
+author: Wu Jing
 language: zh-CN
 timezone: ''
+
+navbar:
+  blog_title: WuJing's Blog
 
 index:
   slogan:
