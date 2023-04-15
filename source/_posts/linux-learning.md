@@ -3,7 +3,7 @@ title: linux-learning
 date: 2023-04-16 00:04:11
 ---
 
-This is a collection of notes and resources for learning Linux.
+- [This is a collection of notes and resources for learning Linux.](https://github.com/realwujing/linux-learning)
 
 ## guide
 
