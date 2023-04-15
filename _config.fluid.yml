@@ -40,6 +40,10 @@ code:
       preprocess: true
 
 post:
+  math:
+    enable: true
+    specific: true
+    engine: mathjax
   mermaid:
     enable: true
     specific: true
