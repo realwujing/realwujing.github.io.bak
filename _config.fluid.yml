@@ -14,7 +14,7 @@ timezone: ''
 index:
   slogan:
     enable: true
-    text: Talk is cheap. Show me the code. Stay hungry. Stay foolish.
+    text: 求知若饥，虚心若愚。
     api:
       enable: false
       url: "https://v1.hitokoto.cn/"
