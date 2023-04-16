@@ -48,6 +48,23 @@ post:
     enable: true
     specific: true
     options:
+  comments:
+    enable: true
+    type: gitalk
+
+gitalk:
+  clientID: c11f8471a6ae4d3eea12
+  clientSecret: 87bfa232882af2b005f4c3352132dd418bf6d113
+  repo: realwujing.github.io
+  owner: realwujing
+  admin: ['realwujing']
+  language: zh-CN
+  labels: ['Gitalk']
+  perPage: 10
+  pagerDirection: last
+  distractionFreeMode: false
+  createIssueManually: false
+  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
